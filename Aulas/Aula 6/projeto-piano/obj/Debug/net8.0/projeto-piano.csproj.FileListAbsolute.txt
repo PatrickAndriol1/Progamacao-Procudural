@@ -1,0 +1,45 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\projeto-piano.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\projeto-piano.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\projeto-piano.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\projeto-piano.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\projeto-piano.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\refint\projeto-piano.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\projeto-piano.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto-piano\obj\Debug\net8.0\ref\projeto-piano.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\projeto-piano.exe
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\projeto-piano.deps.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\projeto-piano.runtimeconfig.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\projeto-piano.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\projeto-piano.pdb
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.csproj.AssemblyReference.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.sourcelink.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-.A661D022.Up2Date
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\refint\projeto-piano.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.pdb
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\projeto-piano.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\Aula 6\projeto-piano\obj\Debug\net8.0\ref\projeto-piano.dll
