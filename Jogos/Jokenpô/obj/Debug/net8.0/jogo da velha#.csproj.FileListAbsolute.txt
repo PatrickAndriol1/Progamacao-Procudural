@@ -1,0 +1,29 @@
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.AssemblyInfo.cs
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\jogo da velha#\bin\Debug\net8.0\jogo da velha#.exe
+C:\Users\IFSP\Documents\jogo da velha#\bin\Debug\net8.0\jogo da velha#.deps.json
+C:\Users\IFSP\Documents\jogo da velha#\bin\Debug\net8.0\jogo da velha#.runtimeconfig.json
+C:\Users\IFSP\Documents\jogo da velha#\bin\Debug\net8.0\jogo da velha#.dll
+C:\Users\IFSP\Documents\jogo da velha#\bin\Debug\net8.0\jogo da velha#.pdb
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.dll
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\refint\jogo da velha#.dll
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.pdb
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\jogo da velha#.genruntimeconfig.cache
+C:\Users\IFSP\Documents\jogo da velha#\obj\Debug\net8.0\ref\jogo da velha#.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\bin\Debug\net8.0\jogo da velha#.exe
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\bin\Debug\net8.0\jogo da velha#.deps.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\bin\Debug\net8.0\jogo da velha#.runtimeconfig.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\bin\Debug\net8.0\jogo da velha#.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\bin\Debug\net8.0\jogo da velha#.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.sourcelink.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\refint\jogo da velha#.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\jogo da velha#.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Jokenpô\obj\Debug\net8.0\ref\jogo da velha#.dll
