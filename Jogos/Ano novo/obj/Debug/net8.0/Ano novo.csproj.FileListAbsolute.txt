@@ -1,0 +1,15 @@
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\bin\Debug\net8.0\Ano novo.exe
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\bin\Debug\net8.0\Ano novo.deps.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\bin\Debug\net8.0\Ano novo.runtimeconfig.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\bin\Debug\net8.0\Ano novo.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\bin\Debug\net8.0\Ano novo.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.sourcelink.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\refint\Ano novo.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\Ano novo.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Jogos\Ano novo\obj\Debug\net8.0\ref\Ano novo.dll
