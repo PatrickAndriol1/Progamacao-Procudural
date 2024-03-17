@@ -12,17 +12,31 @@ class Program
         n.Next(1,4);
         int maquina = Convert.ToInt32(n.Next(1,4));
 
+        string computador = "";
+        if(maquina == 1)
+        {
+            computador = "Pedra";
+        }
+        if(maquina == 2)
+        {
+            computador = "Papel";
+        }
+        if(maquina == 3)
+        {
+            computador = "Tesoura";
+        }
+
         if (jogador == maquina)
         {
-            System.Console.WriteLine($"O computador jogou: {maquina}\nEmpate!");
+            System.Console.WriteLine($"O computador jogou: {computador}\nEmpate!");
         }
         if ((jogador == 1 && maquina == 2) || (jogador == 2 && maquina == 3) || (jogador == 3 && maquina == 1))
         {
-            System.Console.WriteLine($"O computador jogou: {maquina}\nVoce Perdeu!");
+            System.Console.WriteLine($"O computador jogou: {computador}\nVoce Perdeu!");
         }
         if ((jogador == 2 && maquina == 1) || (jogador == 3 && maquina == 2) || (jogador == 1 && maquina == 3))
         {
-            System.Console.WriteLine($"O computador jogou: {maquina}\nVoce Ganhou!");
+            System.Console.WriteLine($"O computador jogou: {computador}\nVoce Ganhou!");
         }
     }
 }
