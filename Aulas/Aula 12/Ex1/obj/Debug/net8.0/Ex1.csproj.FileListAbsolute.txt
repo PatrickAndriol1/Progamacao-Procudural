@@ -1,0 +1,5 @@
+C:\Users\IFSP\Documents\PatrickAndriol1\Progamacao-Procudural\Aulas\Aula 12\Ex1\obj\Debug\net8.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\PatrickAndriol1\Progamacao-Procudural\Aulas\Aula 12\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\PatrickAndriol1\Progamacao-Procudural\Aulas\Aula 12\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfo.cs
+C:\Users\IFSP\Documents\PatrickAndriol1\Progamacao-Procudural\Aulas\Aula 12\Ex1\obj\Debug\net8.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\PatrickAndriol1\Progamacao-Procudural\Aulas\Aula 12\Ex1\obj\Debug\net8.0\Ex1.sourcelink.json
