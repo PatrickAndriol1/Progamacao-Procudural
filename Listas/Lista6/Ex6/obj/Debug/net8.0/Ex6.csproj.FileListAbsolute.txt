@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\bin\Debug\net8.0\Ex6.exe
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\bin\Debug\net8.0\Ex6.deps.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\bin\Debug\net8.0\Ex6.runtimeconfig.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\bin\Debug\net8.0\Ex6.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\bin\Debug\net8.0\Ex6.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.sourcelink.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\refint\Ex6.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\Ex6.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Listas\Lista6\Ex6\obj\Debug\net8.0\ref\Ex6.dll

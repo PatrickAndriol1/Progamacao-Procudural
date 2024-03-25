@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\bin\Debug\net8.0\quadrado.exe
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\bin\Debug\net8.0\quadrado.deps.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\bin\Debug\net8.0\quadrado.runtimeconfig.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\bin\Debug\net8.0\quadrado.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\bin\Debug\net8.0\quadrado.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.sourcelink.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\refint\quadrado.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\quadrado.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Jogos\quadrado\obj\Debug\net8.0\ref\quadrado.dll
