@@ -9,8 +9,7 @@ class Program
         int jogador = int.Parse(Console.ReadLine());
 
         Random n = new Random();
-        n.Next(1,4);
-        int maquina = Convert.ToInt32(n.Next(1,4));
+        int maquina = n.Next(1,4)
 
         string computador = "";
         if(maquina == 1)
