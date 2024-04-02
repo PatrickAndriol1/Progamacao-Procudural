@@ -13,7 +13,7 @@ class Program
 
     double area = (baseTriangulo * alturaTriangulo) / 2.0;
 
-    bool logica = area >= 20;
+    bool logica = area > 20;
 
     Console.WriteLine("A área do triângulo é maior que 20? " + logica);
 
