@@ -1,0 +1,15 @@
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\bin\Debug\net8.0\Aula 15.exe
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\bin\Debug\net8.0\Aula 15.deps.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\bin\Debug\net8.0\Aula 15.runtimeconfig.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\bin\Debug\net8.0\Aula 15.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\bin\Debug\net8.0\Aula 15.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.sourcelink.json
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\refint\Aula 15.dll
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.pdb
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\Aula 15.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Progamacao-Procudural\Aulas\Aula 15\ex1\obj\Debug\net8.0\ref\Aula 15.dll
