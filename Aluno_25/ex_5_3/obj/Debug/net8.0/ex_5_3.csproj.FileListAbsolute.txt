@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\bin\Debug\net8.0\ex_5_3.exe
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\bin\Debug\net8.0\ex_5_3.deps.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\bin\Debug\net8.0\ex_5_3.runtimeconfig.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\bin\Debug\net8.0\ex_5_3.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\bin\Debug\net8.0\ex_5_3.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.sourcelink.json
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\refint\ex_5_3.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ex_5_3.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Progamacao-Procudural\Aluno_25\ex_5_3\obj\Debug\net8.0\ref\ex_5_3.dll

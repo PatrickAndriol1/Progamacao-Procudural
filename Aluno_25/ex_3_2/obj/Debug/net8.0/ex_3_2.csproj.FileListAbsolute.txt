@@ -1,0 +1,14 @@
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\bin\Debug\net8.0\ex_3_2.exe
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\bin\Debug\net8.0\ex_3_2.deps.json
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\bin\Debug\net8.0\ex_3_2.runtimeconfig.json
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\bin\Debug\net8.0\ex_3_2.dll
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\bin\Debug\net8.0\ex_3_2.pdb
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.dll
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\refint\ex_3_2.dll
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.pdb
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ex_3_2.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Aluno_25\ex_3_2\obj\Debug\net8.0\ref\ex_3_2.dll
